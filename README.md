@@ -1,2 +1,3 @@
-# Սայթ
-The website for health service at home
+---
+permalink: /index.html
+---
